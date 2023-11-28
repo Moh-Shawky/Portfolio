@@ -11771,3 +11771,7 @@ opacity:0;
 .img-button:hover button {   
 opacity: 1;
 }
+.custom-button {
+  text-decoration: none;
+  margin-right: 10px;
+}

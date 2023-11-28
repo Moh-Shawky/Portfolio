@@ -7,7 +7,3 @@
 // Use this file to add JavaScript to your project
 
 
-const link = document.getElementById('contact-but');
-link.classList.add('disabled');
-const linkk = document.getElementById('contact-butt');
-linkk.classList.add('disabled');
